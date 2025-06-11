@@ -1,2 +1,6 @@
 6/9/25 
 inspired by a 3d printer in a game, nameless printer is going to be a core xy priner with a flying gantry
+
+6/10/25
+
+Did reseach on core xy vs h bot
